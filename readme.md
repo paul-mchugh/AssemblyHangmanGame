@@ -2,7 +2,7 @@
 
 I implemented a game of hangman using assembly.  
 The game is officially called EXECUTION.  
-After six wrong guesses of letters the prisoner gets the guillotine.  
+After six wrong guesses of letters and the prisoner gets the guillotine.  
 
 ### Features
 
